@@ -16,7 +16,9 @@ export default class Subheader extends Component {
                                         <h2 className="subtitle">My Name is Aji</h2>
                                         <h2 className="subtitle">Nice To Meet You :)</h2>
                                     </div>
-                                    <p className="content">Serahkan Semua pada Yang Maha Kuasa.</p>
+                                    <p className="content">Alamat : Ds. Kedungrejo, Megaluh, Jombang </p>
+                                    <p className="content">Tempat, Tanggal Lahir : Jombang, 23 Januari 1999 </p>
+
                                 </Col>
                                 <Col className="box-img" lg="3">  
                                 </Col>
@@ -32,28 +34,27 @@ export default class Subheader extends Component {
                                 <Col>
                                     <ListGroup variant="flush">
                                         <ListGroup.Item style={{ paddingLeft: "0px" }}>
-                                            <h3 className="title">Ketua Bidang Humas</h3>
+                                            <h3 className="title">Ketua Bidang Humas UKM Rispol 2020</h3>
                                             <p className="subcontent">Usaha untuk membangun dan mempertahankan reputasi, citra dan komunikasi yang baik dan bermanfaat antara organisasi dan masyarakat. Kesuksesan atau kegagalan dari sebuah organisasi dapat dipengaruhi oleh kegiatan humas atau Public Relations (PR).</p>
                                         </ListGroup.Item>
                                         <ListGroup.Item style={{ paddingLeft: "0px" }}>
-                                            <h3 className="title">Sekretaris OSIS</h3>
+                                            <h3 className="title">Sekretaris OSIS SMA TRENSAINS 2015-2016</h3>
                                             <p className="subcontent">Mendampingi ketua dalam memimpin setiap rapat. Menyiarkan, mendistribusikan dan menyimpan surat serta arsip yang berhubungan dengan pelaksanaan kegiatan. Menyiapkan laporan, surat, hasil rapat dan evaluasi kegiatan</p>
                                             </ListGroup.Item>
                                         <ListGroup.Item style={{ paddingLeft: "0px" }}>
-                                            <h3 className="title">Ketua Paskibra</h3>
+                                            <h3 className="title">Ketua Paskibra SMA TRENSAINS 2014-2016</h3>
                                             <p className="subcontent">Pasukan Pengibar Bendera Pusaka dengan tugas utamanya mengibarkan duplikat bendera pusaka dalam upacara peringatan proklamasi kemerdekaan Indonesia di 3 tempat, yakni tingkat Kabupaten/Kota, Provinsi, dan Nasional. </p>
                                         </ListGroup.Item>
                                     </ListGroup>
                                 </Col>
                                 <Col>
-                                    <Card style={{ width: '18rem' }}>
-                                    <Card.Body>
-                                            <Card.Title></Card.Title>
-                                            <Card.Text>
-                                            
-                                            </Card.Text>
-                                        </Card.Body>
-                                    </Card>
+                                <ListGroup variant="flush">
+                                        <ListGroup.Item style={{ paddingLeft: "0px" }}>
+                                            <h3 className="title">Prestasi</h3>
+                                            <p className="subcontent">- Juara 3 Turnamen Bola Voli antar SMP Se Kabupaten Jombang 2013</p>
+                                            <p className="subcontent">- Juara 2 Lomba Lempar Bola Kasti se Jawa Timur 2010</p>
+                                        </ListGroup.Item>
+                                    </ListGroup>
                                 </Col>
                             </Row>
                     </Jumbotron>

@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "UserId": 1,
+      "id": 2,
+      "title": "Lomba Baris Berbaris ",
+      "body": "Jum'at (24/01/2020), Jurusan JTI : Kata Selanjutnya 2"
+    },
+    {
+      "userId": 1,
+      "id": 1583401830495,
+      "title": "pEMROGRAMAN Framworl",
+      "body": "HARI INI"
+    }
+  ],
+  "Mahasiswa": [
+    {
+      "id": 1,
+      "NIM": "1741720139",
+      "Nama": "Aji Putro Wicaksono",
+      "Alamat": "Jombang",
+      "HP": "081249645979",
+      "Angkatan ": "2017",
+      "Status": "Belum Lulus"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
